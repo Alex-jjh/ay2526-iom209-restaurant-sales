@@ -1,0 +1,9 @@
+ID,Dimension,Hypothesis Statement,Data Required,Analysis Method
+H1,Economic,"Higher inflation leads to decreased premium protein orders (Salmon, Steak), increased carb-based orders (Pasta)",CPI/Inflation data + Sales data,Correlation + Regression
+H2,Economic,"Tech layoff periods lead to increased comfort food orders (Desserts, Fries), decreased healthy options",Tech layoff news dates + Sales data,Event study / Before-After
+H3,Weather,"Higher temperature leads to increased cold food/drink orders, decreased hot food orders",Daily temperature + Sales data,Correlation + Time series
+H4,Weather,"Winter quarters (Q4, Q1) lead to increased indulgent orders, decreased healthy orders",Quarterly aggregated sales,ANOVA / Seasonal decomposition
+H5,Psychological,January shows higher healthy order percentage than annual average; Weekends show higher indulgent percentage,Monthly + Day-of-week sales,T-test / Proportion comparison
+H6,Psychological,Mondays and April (tax season) show elevated dessert and comfort food orders,Day-of-week + Monthly sales,ANOVA by day/month
+H7,Competitive,Plant-based trend periods lead to increased Vegetarian Platter and Grilled Vegetables orders,Trend timeline + Sales data,Trend analysis / Interrupted time series
+H8,Competitive,Competitor promotion periods lead to shift toward value-tier items in drink category,Competitor promo dates + Sales data,Event study / Market basket analysis

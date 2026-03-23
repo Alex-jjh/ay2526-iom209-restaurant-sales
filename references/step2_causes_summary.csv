@@ -1,0 +1,9 @@
+Dimension,Cause,Core Mechanism,Expected Taste Shift,Primary References,Hypothesis ID
+A. Economic,A1: Inflation Rate,Substitution + Income Effect,DOWN Premium -> UP Value,Andreyeva (2010); Griffith (2016),H1
+A. Economic,A2: Unemployment Rate,Comfort-seeking Behavior,UP Indulgent Comfort Foods,Sturm (2014); Dave & Kelly (2012),H2
+B. Weather,B1: Ambient Temperature,Thermoregulation,Hot<->Cold Inverse,Parker & Tavassoli (2000); Stroebele (2004),H3
+B. Weather,B2: Seasonal Patterns,Biological Rhythms,Summer:Light -> Winter:Heavy,Ma et al. (2006); de Castro (1991),H4
+C. Psychological,C1: Health Consciousness,Value Alignment,UP Healthy (Jan peak),Chandon & Wansink (2007); Sobal (2009),H5
+C. Psychological,C2: Stress and Emotional Eating,Hedonic/Cortisol Effect,"UP Desserts, UP Fried Foods",Adam & Epel (2007); Zellner (2006),H6
+D. Competitive,D1: Food Trends and Social Media,Social Proof + FOMO,"UP Plant-based, UP Visual Items",Cialdini (2004); Berger (2011),H7
+D. Competitive,D2: Competitor Promotions,Reference Price Effect,UP Value Tier Items,Kalwani (1992); Ailawadi (2001),H8
